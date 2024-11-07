@@ -1,8 +1,0 @@
-Considerations:
-▪ Template: mbed OS 6 empty project from mbed
-studio
-▪ Be aware that RGB LEDs may be either common
-anode/cathode mode
-▪ The USER button already integrates a debounce
-circuit
-▪ 15% of the final assessment!
